@@ -1,4 +1,4 @@
-const CACHE_NAME = "3purcelusi-v260121-1828";
+const CACHE_NAME = "3purcelusi-v260123-1234";
 const ASSETS = [
   "/",
   "/index.html",
